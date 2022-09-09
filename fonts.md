@@ -1,6 +1,9 @@
 # Fonts
 
+## [フリーフォントケンサク](https://cute-freefont.flop.jp/)
+
 ## [Fontworks](https://fontworks.co.jp/)
+
 ### [LETS](https://lets.fontworks.co.jp/)
 
 - [サービス利用規約（LEGAL SERVICES）](https://lets.fontworks.co.jp/legal/services)
