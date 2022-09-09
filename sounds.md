@@ -21,11 +21,19 @@
 
 - [著作権フリーBGM【クセになる36曲2時間】ライブ配信 作業用 勉強用BGM](https://www.youtube.com/watch?v=K3oNkdMu_ew)
 
+### YouTube
+
+- [トーマス大森音楽工房](https://www.youtube.com/c/FreeMusicThomasOomori/about)
+
 ## SE
 
 ### [OtoLogic](https://otologic.jp/)
 
 - [利用規約（LISENCE）](https://otologic.jp/free/license.html)
+
+### [On-Jin ～音人～](https://on-jin.com/)
+
+- [利用規約](https://on-jin.com/kiyaku.php)
 
 ### [Poket soundポケットサウンド](https://pocket-se.info/)
 
@@ -38,3 +46,5 @@
 ### [効果音ラボ](https://soundeffect-lab.info/)
 
 - [利用規約（AGREEMENT）](https://soundeffect-lab.info/agreement/)
+
+
