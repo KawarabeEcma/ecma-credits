@@ -16,3 +16,7 @@ A repository for license list of material that using on Ecma Kawarabe's activiti
 - [音系（BGM, SE）](/sounds.md)
 - [フォント（Fonts）](/fonts.md)
 - [動画（Videos）](/videos.md)
+
+### 総合
+
+- [PIXTA](https://pixta.jp/)
